@@ -9,18 +9,19 @@
 
 **On linux;**
 
-'''bash&fish
+## Bash&Fish
 
-**_python3 -m venv venv_**
-
-**_On bash;_**
-
-*source venv/bin/activate*
-
-**_On fish;_**
-
-*source venv/bin/activate.fish*'''
-
+```
+python3 -m venv venv
+```
+## Bash 
+```
+source venv/bin/activate
+```
+## Fish
+```
+source venv/bin/activate.fish
+```
 **On Windows;**
 
 *First, install python*
@@ -30,13 +31,9 @@
 
 - <img width="1198" height="686" alt="3" src="https://github.com/user-attachments/assets/53e52d3d-d62c-4737-b715-c2388751efed" />
 
-
-
 *And, double click main.PY*
 
 - <img width="689" height="589" alt="2" src="https://github.com/user-attachments/assets/c0dc6bbc-8be2-4500-a1b7-41e1e55eb575" />
-
-
 
 ## images within the file
 
